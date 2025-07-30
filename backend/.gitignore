@@ -1,0 +1,6 @@
+db_dev
+*/__pycache__
+*.py[cod]
+*.sqlite3
+*.db
+*.log
